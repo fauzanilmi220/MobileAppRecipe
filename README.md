@@ -38,4 +38,16 @@ Install the stage below before go to the installation.
 ```bash
   npm run android
 ```
+## Documentation
+| ![image](https://user-images.githubusercontent.com/126861853/240951867-daaf6a9d-bf24-483c-8c5c-fc5758e2dac9.png) | ![image](https://user-images.githubusercontent.com/126861853/240951894-a53a9537-5a13-44cf-888b-cec3b9a284b3.png) |
+|---------------------------------------|--------------------------------------------|
+| Login Page                              | Landing Page                               |
+| ![image](https://user-images.githubusercontent.com/126861853/240951907-382f2608-f5a1-40af-9630-545bacd7b51d.png) | ![image](https://user-images.githubusercontent.com/126861853/240951913-6c5e0e11-db3a-4d3b-9bbc-6f945b29a65d.png) |
+| Profile Page                          | Edit Profil                             |
+| ![image](https://user-images.githubusercontent.com/126861853/240951916-fcfdfc92-a5c9-484c-9955-a3e8a35da64b.png) | ![image](https://user-images.githubusercontent.com/126861853/240951919-699aa3ad-1375-4987-b1b1-d196b82d4f84.png) |
+| Recipe Page                            | Add Recipe                          |
+
+# Related Project
+:rocket: [Backend Repo](https://github.com/fauzanilmi220/recipes)
+
 
