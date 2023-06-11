@@ -1,7 +1,5 @@
-# MobileAppRecipe
-
 <div align="center">
-    <h3 align="center">Recipe Mobile App</h3>
+    <h3 align="center">Mobile Recipe App</h3>
     <img src='https://user-images.githubusercontent.com/126861853/244944772-c5b36b83-404c-441b-b6ad-fbcd416cd213.png' width="150" height="150" />
 </div>
 
