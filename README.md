@@ -53,7 +53,7 @@ Install the stage below before go to the installation.
 4. Turn on your Mobile Device
 5. Make new file in your project directory callad '.env.local' and copy this code to that file :
 ```bash
-  API_URL=https://https://bright-hen-twill.cyclic.app/
+  API_URL=https:https://relieved-newt-boot.cyclic.app/
 ```
 6. Run command 'npm run android' to start Mobile application
 ```bash
